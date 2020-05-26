@@ -1,0 +1,7 @@
+radius = int(input("Enter a number: "))
+area = 3.14 * radius * radius
+print("The area of circle is:", area)
+
+Output:
+Enter a number: 5
+The area of circle is: 78.5
